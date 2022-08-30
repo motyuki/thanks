@@ -1,0 +1,151 @@
+@charset "UTF-8"
+
+ 
+   
+   
+
+.header-left{
+    float: left;
+}
+.header-logo{
+    font-size: 30px;
+    padding:10px 30px;
+    font-family: serif;
+    color:#faa61a;
+    margin-top: 0px;
+}
+
+.main-wrapper{
+    
+    background-image:url(https://pakutaso.cdn.rabify.me/shared/img/thumb/edgawa-hanabi-39.jpg.webp?d=1420);
+    background-size:cover;
+    height:800px;
+}
+
+
+.mainw{
+    margin: 0 auto;
+    width:1200px;
+
+}
+.main-logo {
+    text-align: center;
+    color:#eddcdc;
+    font-size: 80px;
+    padding-right:30px;
+    margin-top: 0px;
+    padding-top: 60px;
+    
+}
+body{
+    margin:0;
+}
+.image img{
+    width: 500px;
+    height: 400px;
+}
+.contents{
+    margin-top: 100px;
+   
+}
+.conti{
+    margin:0 auto;
+    width:1000px;
+}
+.cont{
+    
+    gap:10px;
+}
+.image{
+    float:left;
+
+}
+.article{
+    float:right;
+    text-align: center;
+    margin-bottom:40px;
+    height:500px;
+}
+h1{
+    font-size: 40px;
+}
+.lesson-item{
+    margin: 0 auto;
+    width:1000px;
+    display: flex;
+}
+.lesson-image{
+    float:right;
+    width:40%;
+    height:500px;
+    padding-left: 60px;
+}
+.lesson-article{
+    float:left;
+    width:60%;
+}
+.lesson-article h1{
+    font-size: 40px;
+    text-align: center;
+}
+.lesson-article p{
+    margin-bottom: 50px;
+    margin-top: 0px;
+    text-align: center;
+    padding-bottom: 0px;
+    letter-spacing: 0px;
+}
+.input-wrapper{
+    margin-top: 60px;
+}
+.inputw{
+    margin: 0 auto;
+    width: 1000px;
+}
+.inputs{
+    display: flex;
+}
+.input-image img{
+    width: 500px;
+    height: 400px;
+}    
+.input-article h1{
+    font-size: 40px;
+    padding-left: 40px;
+}
+.input-article p{
+    
+    text-align: center;
+}
+.form{
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/617/363/732/wave-red-lines-light-wallpaper-preview.jpg);
+    background-size: cover;
+    height:400px;
+}
+.yuki{
+    margin:0 auto;
+    width:1000px;
+
+}
+.ino{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+}
+.yuki p{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+footer{
+    height:50px;
+    background-color: red;
+}
+.footer-logo{
+    padding:10px;
+    text-align: center;
+    color:black;
+    font-family: serif;
+}
